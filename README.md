@@ -60,6 +60,8 @@ The analysis was created to help businesses understand their sales performance a
 
 The project includes an interactive Power BI dashboard for exploring sales, profit, regional performance, and product trends.
 
+![Retail Performance Dashboard](Screenshot%202025-05-06%20130016.png)
+
 ## 👨‍💻 Author
 
 **Raju**
